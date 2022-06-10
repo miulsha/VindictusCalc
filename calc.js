@@ -208,7 +208,7 @@ const bossstat = {
         bossalrlimit: 8000
     },
     taros: {
-        def: 41000,
+        def: 40000,
         res: 229,
         bosscounterforce: 180,
         bosscounterforcemindmg: 10,
