@@ -295,14 +295,6 @@ const bossstat = {
         bossbalforce: 34,
         bossalrlimit: 0
     },
-    eisenritter: {
-        def: 42850,
-        res: 254,
-        bosscounterforce: 220,
-        bosscounterforcemindmg: 30,
-        bossbalforce: 59,
-        bossalrlimit: 0
-    },
     jordra: {
         def: 45000,
         res: 305,
@@ -311,6 +303,14 @@ const bossstat = {
         bossbalforce: 100,
         bossalrlimit: 0
     },
+    eisenritter: {
+        def: 42850,
+        res: 254,
+        bosscounterforce: 220,
+        bosscounterforcemindmg: 30,
+        bossbalforce: 59,
+        bossalrlimit: 0
+    }
 }
 
 function exec(num) {
