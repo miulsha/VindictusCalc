@@ -1,5 +1,5 @@
 const bossstat = {
-    taros_king: {
+    tarosking: {
         def: 74000,
         res: 340,
         bosscounterforce: 360,
